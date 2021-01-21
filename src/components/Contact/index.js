@@ -19,9 +19,10 @@ const Contact = () => {
     <span ><HiOutlineMail fontSize={25}/><p className='mail'>ojedamartinasofia@gmail.com</p></span>
     <span><HiOutlinePhone fontSize={25}/><p className='mail'>(+56) 9 59679839</p></span>
     <span><HiLocationMarker fontSize={25}/><p className='mail'>Santiago, Chile</p></span>
-    
+    <span><p className='mail'><h3>Skills:</h3> Python, Django, Flask, Golang, MySQL, Javascript, ReactJs, Bootstrap, HTML5, CSS3, Sass, Git.</p></span>
    </div> 
 </section>
+
   )
 }
 export default Contact;

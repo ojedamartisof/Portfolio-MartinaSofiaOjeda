@@ -16,10 +16,7 @@ const AboutMe = () => {
       </div>
       <section className='aboutMe'>
         <p>
-        <h5> I enjoy the analysis, logic and processes involved in BackEnd.
-        Always happy to learn something new, I pay a lot of attention to details and I love challenges.</h5>
-          <h1><u>Skills:</u></h1><h3>Python • Django • Flask • MySQL</h3>
-
+          <h5>I am enthusiastic, self-taught, and proactive. I enjoy team work and I spend most of the time exploring new technologies and methodologies. My goal is to find a job where I can gain experience and increase my coding knowledge. I studied in a Full Stack Development Bootcamp and take a lot of courses.</h5>
         </p>
       </section>
     </div>

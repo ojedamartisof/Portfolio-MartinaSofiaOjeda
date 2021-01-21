@@ -8,9 +8,19 @@ import { CgArrowLeftO } from 'react-icons/cg';
 const Cards = () => {
     const Projects = [
         {
-            title: 'Exercises Python',
-            description: "Python",
-            url: 'https://github.com/ojedamartisof/Exercises-Beginner-Python'
+            title: 'MatchUP - Backend',
+            description: "Python, Flask, MySQL, Heroku", 
+            url: 'https://github.com/ojedamartisof/Backend_FinalProject4Geek'
+        },
+        {
+            title: 'MatchUP - Frontend',
+            description: "Javascript, ReactJS, CSS, Sass",
+            url: 'https://github.com/ojedamartisof/Frontend_FinalProject4Geek'
+        },
+        {
+            title: 'Exercises GO',
+            description: "Golang",
+            url: 'https://github.com/ojedamartisof/testGO'
         },
         {
             title: 'Calculator Tkinter',
@@ -41,7 +51,7 @@ const Cards = () => {
         },
         {
             title: 'Todo List',
-            description: "React",
+            description: "ReactJS",
             url: 'https://github.com/ojedamartisof/TodoList-React'
         },
 
@@ -49,6 +59,16 @@ const Cards = () => {
             title: ' Calculator',
             description: "Javascript + CSS + HTML",
             url: 'https://github.com/ojedamartisof/Calculator-JS'
+        },
+        {
+            title: ' Music Player',
+            description: "Javascript, ReactJS",
+            url: 'https://github.com/ojedamartisof/Music-Player-React'
+        },
+        {
+            title: ' Simple Counter',
+            description: "Javascript, ReactJS",
+            url: 'https://github.com/ojedamartisof/Simple-Counter-React'
         },
     ]
 
