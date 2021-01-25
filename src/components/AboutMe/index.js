@@ -16,7 +16,7 @@ const AboutMe = () => {
       </div>
       <section className='aboutMe'>
         <p>
-          <h5>I am enthusiastic, self-taught, and proactive. I enjoy team work and I spend most of the time exploring new technologies and methodologies. My goal is to find a job where I can gain experience and increase my coding knowledge. I studied in a Full Stack Development Bootcamp and take a lot of courses.</h5>
+          <h5>I am enthusiastic, self-taught, and proactive. I enjoy team work and exploring new technologies. My goal is to find a company where I can gain experience while increasing my coding knowledge. I studied in a Full Stack Development Bootcamp and took different online courses.</h5>
         </p>
       </section>
     </div>
